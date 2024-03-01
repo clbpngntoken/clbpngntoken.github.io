@@ -1,0 +1,48 @@
+
+body {
+    background-image: url('../content/club_pingu_town.webp');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: hsl(206, 27%, 38%);
+    background-blend-mode: multiply;
+
+}
+
+h1{
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: lightgray;
+    text-shadow: 2px 2px black;
+}
+
+a{
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    color: lightgray;
+    text-shadow: 2px 2px black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: darkgray;
+}
+
+.penguin{
+    width: 20%;
+}
+
+.penguin-box {
+    margin-top: 10%;
+}
+
+div.hidden{
+    display:none;
+}
+
+
+
