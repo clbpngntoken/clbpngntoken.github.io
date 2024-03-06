@@ -1,0 +1,59 @@
+body {
+    background-image: url('../content/zyzzdance.gif');
+    background-size: 300px auto;
+    background-color: hsl(206, 27%, 38%);
+    background-blend-mode: multiply;
+}
+
+h1{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 70px;
+    margin-bottom: -1%;
+
+}
+
+span{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+
+}
+
+#subtext {
+    font-size: 20px;
+    margin-bottom:2%;
+}
+
+a{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+
+}
+a:hover{
+    text-decoration: none;
+    color: darkgray;
+}
+
+
+#zyzz-transparent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    margin-bottom: 1%;
+
+}
